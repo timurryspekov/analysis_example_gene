@@ -1,0 +1,31 @@
+C:\Users\Was\source\repos\gene analysis\gene analysis\bin\Debug\gene analysis.exe.config
+C:\Users\Was\source\repos\gene analysis\gene analysis\bin\Debug\gene analysis.exe
+C:\Users\Was\source\repos\gene analysis\gene analysis\bin\Debug\gene analysis.pdb
+C:\Users\Was\source\repos\gene analysis\gene analysis\obj\Debug\gene analysis.csprojResolveAssemblyReference.cache
+C:\Users\Was\source\repos\gene analysis\gene analysis\obj\Debug\MainWindow.g.cs
+C:\Users\Was\source\repos\gene analysis\gene analysis\obj\Debug\App.g.cs
+C:\Users\Was\source\repos\gene analysis\gene analysis\obj\Debug\gene analysis_MarkupCompile.cache
+C:\Users\Was\source\repos\gene analysis\gene analysis\obj\Debug\gene analysis_MarkupCompile.lref
+C:\Users\Was\source\repos\gene analysis\gene analysis\obj\Debug\MainWindow.baml
+C:\Users\Was\source\repos\gene analysis\gene analysis\obj\Debug\gene analysis.g.resources
+C:\Users\Was\source\repos\gene analysis\gene analysis\obj\Debug\gene_analysis.Properties.Resources.resources
+C:\Users\Was\source\repos\gene analysis\gene analysis\obj\Debug\gene analysis.csproj.GenerateResource.Cache
+C:\Users\Was\source\repos\gene analysis\gene analysis\obj\Debug\gene analysis.csproj.CoreCompileInputs.cache
+C:\Users\Was\source\repos\gene analysis\gene analysis\obj\Debug\gene analysis.exe
+C:\Users\Was\source\repos\gene analysis\gene analysis\obj\Debug\gene analysis.pdb
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\bin\Debug\gene analysis.exe
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\obj\Debug\gene analysis.csprojAssemblyReference.cache
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\obj\Debug\MainWindow.g.cs
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\obj\Debug\App.g.cs
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\obj\Debug\MainWindow.baml
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\obj\Debug\gene_analysis.Properties.Resources.resources
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\obj\Debug\gene analysis.csproj.GenerateResource.cache
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\obj\Debug\gene analysis.csproj.CoreCompileInputs.cache
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\bin\Debug\gene analysistest.exe.config
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\bin\Debug\gene analysistest.exe
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\bin\Debug\gene analysistest.pdb
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\obj\Debug\gene analysistest_MarkupCompile.cache
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\obj\Debug\gene analysistest_MarkupCompile.lref
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\obj\Debug\gene analysistest.g.resources
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\obj\Debug\gene analysistest.exe
+C:\Users\Absolute\Desktop\gene analysis\gene analysis\obj\Debug\gene analysistest.pdb
